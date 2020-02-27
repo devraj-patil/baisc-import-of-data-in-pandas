@@ -1,0 +1,3 @@
+import pandas as pd
+mydataset = pd.read_csv('name of file.csv') suppose file name real estate then
+mydataset = pd.read_csv('realestate.csv')
